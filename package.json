@@ -1,0 +1,23 @@
+{
+  "name": "simple_chat_sauce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "git": "^0.1.5",
+    "handlebars": "^4.1.1",
+    "jquery": "^3.4.0",
+    "semantic-ui-css": "^2.4.1",
+    "simplewebrtc": "^3.0.2",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
